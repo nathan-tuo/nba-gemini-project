@@ -1,10 +1,3 @@
-"""
-NBA Performance Tracker | Python, SQL, Tableau, Azure 
-● Designed end-to-end data pipeline with Python and SQL to collect and visualize historical player statistics across ~25
-years of basketball data using the NBA’s API
-● Built Tableau dashboards highlighting performance trends, injury gaps, and career progression metrics for 500 athletes
-● Automated anomaly detection in datasets to flag missing sports records, reducing manual corrections by 40%
-"""
 import json
 import pandas as pd
 import time
