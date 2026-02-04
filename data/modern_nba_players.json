@@ -1505,13 +1505,6 @@
         "is_active": false
     },
     {
-        "id": 203992,
-        "full_name": "Bogdan Bogdanovi\u0107",
-        "first_name": "Bogdan",
-        "last_name": "Bogdanovi\u0107",
-        "is_active": true
-    },
-    {
         "id": 177,
         "full_name": "Muggsy Bogues",
         "first_name": "Muggsy",
@@ -3507,13 +3500,6 @@
         "is_active": true
     },
     {
-        "id": 1642359,
-        "full_name": "Pac\u00f4me Dadiet",
-        "first_name": "Pac\u00f4me",
-        "last_name": "Dadiet",
-        "is_active": true
-    },
-    {
         "id": 2223,
         "full_name": "Samuel Dalembert",
         "first_name": "Samuel",
@@ -3913,13 +3899,6 @@
         "is_active": true
     },
     {
-        "id": 1631217,
-        "full_name": "Moussa Diabat\u00e9",
-        "first_name": "Moussa",
-        "last_name": "Diabat\u00e9",
-        "is_active": true
-    },
-    {
         "id": 1629603,
         "full_name": "Mamadi Diakite",
         "first_name": "Mamadi",
@@ -4065,13 +4044,6 @@
         "first_name": "Michael",
         "last_name": "Doleac",
         "is_active": false
-    },
-    {
-        "id": 1629029,
-        "full_name": "Luka Don\u010di\u0107",
-        "first_name": "Luka",
-        "last_name": "Don\u010di\u0107",
-        "is_active": true
     },
     {
         "id": 2039,
@@ -4716,13 +4688,6 @@
         "first_name": "Patrick",
         "last_name": "Ewing",
         "is_active": false
-    },
-    {
-        "id": 203957,
-        "full_name": "Dant\u00e9 Exum",
-        "first_name": "Dant\u00e9",
-        "last_name": "Exum",
-        "is_active": true
     },
     {
         "id": 201963,
@@ -8246,13 +8211,6 @@
         "is_active": false
     },
     {
-        "id": 203999,
-        "full_name": "Nikola Joki\u0107",
-        "first_name": "Nikola",
-        "last_name": "Joki\u0107",
-        "is_active": true
-    },
-    {
         "id": 2264,
         "full_name": "Alvin Jones",
         "first_name": "Alvin",
@@ -8524,13 +8482,6 @@
         "first_name": "Kris",
         "last_name": "Joseph",
         "is_active": false
-    },
-    {
-        "id": 1631107,
-        "full_name": "Nikola Jovi\u0107",
-        "first_name": "Nikola",
-        "last_name": "Jovi\u0107",
-        "is_active": true
     },
     {
         "id": 1630548,
@@ -8923,13 +8874,6 @@
         "first_name": "Viacheslav",
         "last_name": "Kravtsov",
         "is_active": false
-    },
-    {
-        "id": 1630249,
-        "full_name": "V\u00edt Krej\u010d\u00ed",
-        "first_name": "V\u00edt",
-        "last_name": "Krej\u010d\u00ed",
-        "is_active": true
     },
     {
         "id": 2420,
@@ -10059,13 +10003,6 @@
         "is_active": true
     },
     {
-        "id": 1631255,
-        "full_name": "Karlo Matkovi\u0107",
-        "first_name": "Karlo",
-        "last_name": "Matkovi\u0107",
-        "is_active": true
-    },
-    {
         "id": 202083,
         "full_name": "Wesley Matthews",
         "first_name": "Wesley",
@@ -11039,13 +10976,6 @@
         "is_active": false
     },
     {
-        "id": 1628420,
-        "full_name": "Mont\u00e9 Morris",
-        "first_name": "Mont\u00e9",
-        "last_name": "Morris",
-        "is_active": true
-    },
-    {
         "id": 201043,
         "full_name": "Randolph Morris",
         "first_name": "Randolph",
@@ -11620,13 +11550,6 @@
         "is_active": false
     },
     {
-        "id": 203994,
-        "full_name": "Jusuf Nurki\u0107",
-        "first_name": "Jusuf",
-        "last_name": "Nurki\u0107",
-        "is_active": true
-    },
-    {
         "id": 1628021,
         "full_name": "David Nwaba",
         "first_name": "David",
@@ -12124,13 +12047,6 @@
         "is_active": false
     },
     {
-        "id": 1628394,
-        "full_name": "An\u017eejs Pase\u010d\u0146iks",
-        "first_name": "An\u017eejs",
-        "last_name": "Pase\u010d\u0146iks",
-        "is_active": false
-    },
-    {
         "id": 203934,
         "full_name": "Lamar Patterson",
         "first_name": "Lamar",
@@ -12618,13 +12534,6 @@
         "full_name": "Bobby Portis",
         "first_name": "Bobby",
         "last_name": "Portis",
-        "is_active": true
-    },
-    {
-        "id": 204001,
-        "full_name": "Kristaps Porzi\u0146\u0123is",
-        "first_name": "Kristaps",
-        "last_name": "Porzi\u0146\u0123is",
         "is_active": true
     },
     {
@@ -13657,13 +13566,6 @@
         "is_active": false
     },
     {
-        "id": 1642275,
-        "full_name": "Tidjane Sala\u00fcn",
-        "first_name": "Tidjane",
-        "last_name": "Sala\u00fcn",
-        "is_active": true
-    },
-    {
         "id": 2422,
         "full_name": "John Salmons",
         "first_name": "John",
@@ -13865,13 +13767,6 @@
         "first_name": "Detlef",
         "last_name": "Schrempf",
         "is_active": false
-    },
-    {
-        "id": 203471,
-        "full_name": "Dennis Schr\u00f6der",
-        "first_name": "Dennis",
-        "last_name": "Schr\u00f6der",
-        "is_active": true
     },
     {
         "id": 2449,
@@ -15792,13 +15687,6 @@
         "is_active": false
     },
     {
-        "id": 202685,
-        "full_name": "Jonas Valan\u010di\u016bnas",
-        "first_name": "Jonas",
-        "last_name": "Valan\u010di\u016bnas",
-        "is_active": true
-    },
-    {
         "id": 1627756,
         "full_name": "Denzel Valentine",
         "first_name": "Denzel",
@@ -15971,13 +15859,6 @@
         "full_name": "Tristan Vukcevic",
         "first_name": "Tristan",
         "last_name": "Vukcevic",
-        "is_active": true
-    },
-    {
-        "id": 202696,
-        "full_name": "Nikola Vu\u010devi\u0107",
-        "first_name": "Nikola",
-        "last_name": "Vu\u010devi\u0107",
         "is_active": true
     },
     {
@@ -17462,20 +17343,6 @@
         "full_name": "Tristan da Silva",
         "first_name": "Tristan",
         "last_name": "da Silva",
-        "is_active": true
-    },
-    {
-        "id": 1628427,
-        "full_name": "Vlatko \u010can\u010dar",
-        "first_name": "Vlatko",
-        "last_name": "\u010can\u010dar",
-        "is_active": false
-    },
-    {
-        "id": 203967,
-        "full_name": "Dario \u0160ari\u0107",
-        "first_name": "Dario",
-        "last_name": "\u0160ari\u0107",
         "is_active": true
     }
 ]

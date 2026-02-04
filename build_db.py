@@ -121,11 +121,11 @@ def main():
         pts_per36 REAL,
         reb_per36 REAL,
         ast_per36 REAL,
-
+        
         PRIMARY KEY (player_id, season)
     );
     """)
-
+#add stl & blk to per_36 calculations later
     insert_sql = """
     INSERT INTO player_season_stats (
         player_id, player_name, team_id, team_abbreviation, season, age,
